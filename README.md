@@ -60,6 +60,7 @@ capstone works, and do a quick icebreaker. No coding today, just get oriented.
 Some coins are rigged, some aren't. Using only the results, figure out which is which, no
 formulas allowed yet. This is the moment the course's whole point clicks.
 
+
 ### Week 2 (Jan 18 to Jan 24): Asking a Good Question
 *No class Monday, January 18 (MLK Jr. Day); this does not affect our Tue/Thu schedule.*
 
