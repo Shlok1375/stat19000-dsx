@@ -8,15 +8,23 @@ has a concrete run-of-show, not just a topic label.
 ---
 
 ## Class 1: Course Introduction & Orientation (Tue, Jan 12)
+
 **Objective:** Set expectations, build buy-in, remove first-day anxiety.
+
 **Timing:** Welcome and why this course exists (15 min) / Syllabus, grading, AI policy walk-through (15 min) / Icebreaker: two truths and a data lie (20 min) / Preview of Class 2's coin activity, no spoilers (10 min) / Q&A (15 min)
+
 **Materials:** Syllabus handout, slide deck, icebreaker prompts
+
 **Instructor Prep:** Finalize slide deck; prepare icebreaker prompt cards; confirm Brightspace shell is live
 
 ## Class 2: The Coin Flip That Wasn't Fair (Thu, Jan 14)
+
 **Objective:** Create the "aha" moment that hooks students on the course's core idea.
+
 **Timing:** Setup and rules (10 min) / Small-group coin flip trials, some coins secretly weighted (25 min) / Groups present their guesses and reasoning (20 min) / Reveal and debrief: what patterns actually gave it away (20 min)
+
 **Materials:** Weighted and fair coins (enough sets for small groups), recording sheets
+
 **Instructor Prep:** Acquire/weight coins in advance; test weighting produces a detectable but non-obvious skew; print recording sheets
 
 ## Class 3: What Makes a Question Answerable (Tue, Jan 19)
