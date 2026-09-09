@@ -29,8 +29,11 @@ has a concrete run-of-show, not just a topic label.
 
 ## Class 3: What Makes a Question Answerable (Tue, Jan 19)
 **Objective:** Teach the difference between an interesting question and an answerable one.
+
 **Timing:** Examples of vague vs. answerable questions (15 min) / Guided practice reshaping vague questions (25 min) / Intro to the semester's shared practice dataset (20 min) / Preview Thursday's workshop (15 min)
+
 **Materials:** Slide deck with example questions, shared class dataset
+
 **Instructor Prep:** Select and lightly clean the shared practice dataset; prepare 8 to 10 example questions of varying quality
 
 ## Class 4: Speed-Dating Question Workshop (Thu, Jan 21)
