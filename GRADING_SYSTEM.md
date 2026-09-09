@@ -156,6 +156,8 @@ policy.
 ### Technology Requirements
 - Laptop with internet access
 - Python (Jupyter or Google Colab, no local install strictly required)
+- No prior coding experience needed; Python is taught starting Class 5, and all course
+  notebooks are provided as fill-in-the-blank templates
 
 ---
 
