@@ -40,7 +40,8 @@ and defend yourself.
 
 **Philosophy**: You don't understand a statistical trap until you've fallen into one
 
-**Prerequisites**: None
+**Prerequisites**: None. Basic Python is taught in-course; no prior coding, calculus, or
+statistics background required
 
 ### What You'll Build
 
@@ -74,8 +75,10 @@ something you can actually investigate with data.
 
 ### Week 3 (Jan 25 to Jan 31): Exploring Data Honestly
 
-**Class 5: Intro to EDA in Python** (Tue, Jan 26): Light exploratory data analysis with pandas
-and simple plots.
+**Class 5: Python and Pandas Crash Course** (Tue, Jan 26): A from-scratch, no-experience-needed
+introduction to Python for data work: loading a dataset, basic pandas, and a simple plot. All
+notebooks throughout the course are fill-in-the-blank templates, so you're never expected to
+write code from a blank file.
 
 **Class 6: Cold Dataset Challenge** (Thu, Jan 28): Given a dataset you've never seen, teams
 race to find one real insight and one fake-looking-but-real oddity in 30 minutes.
@@ -193,7 +196,8 @@ See `GRADING_SYSTEM.md` for full details.
 
 ## 🚀 Tools You'll Use
 
-- **Python** (pandas, matplotlib), reinforcing existing intro programming skills
+- **Python** (pandas, matplotlib), taught from scratch starting Class 5, no prior experience
+  needed
 - **Jupyter/Colab notebooks**
 - **Live polling tools** (e.g., Mentimeter/PollEverywhere) for real-time class experiments
 - **Real public datasets**, no synthetic toy data; messiness is part of the lesson
