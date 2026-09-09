@@ -202,11 +202,16 @@ See `GRADING_SYSTEM.md` for full details.
 By the end of this course, you'll be able to:
 
 ✅ Formulate a clear, answerable question from a messy real-world dataset
+
 ✅ Spot common traps that make comparisons misleading, because you've personally fallen for
    several of them, live, in class
+   
 ✅ Run and correctly interpret a basic hypothesis test or causal comparison
+
 ✅ Critically evaluate an AI-generated data analysis
+
 ✅ Design, execute, and defend a real capstone experiment or causal analysis
+
 ✅ Communicate a data-driven conclusion, and its limitations, to a non-technical audience
 
 ---
