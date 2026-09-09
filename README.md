@@ -35,9 +35,12 @@ and defend yourself.
 ## 📚 Course Structure
 
 **Duration**: 15 weeks | **Classes**: 30 total (twice per week, Tuesday/Thursday)
+
 **Format**: Interactive, activity-driven, minimal lecture
+
 **Philosophy**: You don't understand a statistical trap until you've fallen into one
-**Prerequisites**: Intro programming (Python) only, no calculus or prior stats required
+
+**Prerequisites**: None
 
 ### What You'll Build
 
