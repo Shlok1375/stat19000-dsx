@@ -41,7 +41,8 @@ and defend yourself.
 **Philosophy**: You don't understand a statistical trap until you've fallen into one
 
 **Prerequisites**: None. Basic Python is taught in-course; no prior coding, calculus, or
-statistics background required
+statistics background required. R is available as an optional side-by-side track for
+students who want a head start on STAT 355, which is taught in R.
 
 ### What You'll Build
 
@@ -78,7 +79,8 @@ something you can actually investigate with data.
 **Class 5: Python and Pandas Crash Course** (Tue, Jan 26): A from-scratch, no-experience-needed
 introduction to Python for data work: loading a dataset, basic pandas, and a simple plot. All
 notebooks throughout the course are fill-in-the-blank templates, so you're never expected to
-write code from a blank file.
+write code from a blank file. Students who want to prepare for STAT 355 can optionally work
+in R instead, using provided starter materials.
 
 **Class 6: Cold Dataset Challenge** (Thu, Jan 28): Given a dataset you've never seen, teams
 race to find one real insight and one fake-looking-but-real oddity in 30 minutes.
@@ -124,7 +126,8 @@ and compete to find its most damaging flaw.
 ### Week 9 (Mar 8 to Mar 14): Capstone Kickoff
 
 **Class 17: Scoping a Project You Can Actually Finish** (Tue, Mar 9): How to pick a question
-and dataset sized for five weeks of work.
+and dataset sized for five weeks of work. Students working in the optional R track should
+also scope their capstone approach in R at this stage, using the provided R starter materials.
 
 **Class 18: Rapid-Fire Proposal Pitches** (Thu, Mar 11): 2-minute pitches with instant class
 feedback.
@@ -197,8 +200,11 @@ See `GRADING_SYSTEM.md` for full details.
 ## 🚀 Tools You'll Use
 
 - **Python** (pandas, matplotlib), taught from scratch starting Class 5, no prior experience
-  needed
-- **Jupyter/Colab notebooks**
+  needed, this is the language used in class
+- **R (optional track)**: students who want to prepare for STAT 355 can work through key
+  exercises and the capstone in R instead of Python, with equivalent starter notebooks
+  provided; not required, and not separately taught in class
+- **Jupyter/Colab notebooks** (Python) and **RStudio/Posit Cloud** (R track)
 - **Live polling tools** (e.g., Mentimeter/PollEverywhere) for real-time class experiments
 - **Real public datasets**, no synthetic toy data; messiness is part of the lesson
 
@@ -242,6 +248,10 @@ a dedicated activity where the class collectively tears apart a flawed AI analys
 ## 💼 Why This Matters
 
 This course prepares students for:
-- Upper-level statistics and data science coursework, with real intuition already built
+- STAT 355 specifically: the optional R track means students who want to can carry the same
+  experimentation intuition straight into the language that course is taught in, closing a
+  real gap between freshman and second-year coursework
+- Upper-level statistics and data science coursework more broadly, with real intuition
+  already built
 - Internship and research opportunities that expect basic experimental literacy
 - A skeptical, evidence-first mindset that transfers to any data-driven field
