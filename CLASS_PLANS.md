@@ -5,6 +5,11 @@ breakdown, materials needed, and what the instructor needs to prep beforehand. T
 a working plan and will be refined as the course develops; it exists to show that every session
 has a concrete run-of-show, not just a topic label.
 
+A note on languages: class instruction and live activities are in Python throughout. Students
+who want to prepare for STAT 355 (taught in R) can optionally work in R instead of Python for
+the capstone project, using provided starter materials; this is not required and does not
+change what's taught in class.
+
 ---
 
 ## Class 1: Course Introduction & Orientation (Tue, Jan 12)
@@ -51,11 +56,11 @@ has a concrete run-of-show, not just a topic label.
 
 **Objective:** Get every student, including those with zero coding background, comfortable loading and looking at real data in Python within one session.
 
-**Timing:** What Python/pandas is and why we use it, no jargon (10 min) / Live-coded walkthrough: load a dataset, look at rows/columns, make one simple plot (30 min) / Guided practice on shared dataset using a fill-in-the-blank notebook (25 min) / What EDA can and can't tell you (10 min)
+**Timing:** What Python/pandas is and why we use it, no jargon (10 min) / Live-coded walkthrough: load a dataset, look at rows/columns, make one simple plot (30 min) / Guided practice on shared dataset using a fill-in-the-blank notebook (25 min) / What EDA can and can't tell you, and a brief mention of the optional R track for students prepping for STAT 355 (10 min)
 
-**Materials:** Fill-in-the-blank Jupyter/Colab notebook template (students complete specific cells, not write from scratch), shared dataset, optional pre-course primer link shared in advance for students who want a head start
+**Materials:** Fill-in-the-blank Jupyter/Colab notebook template (students complete specific cells, not write from scratch), shared dataset, optional pre-course primer link shared in advance for students who want a head start, optional R-equivalent starter notebook link for students who want to work in R instead
 
-**Instructor Prep:** Build and test the fill-in-the-blank starter notebook; confirm Colab access for all students; prepare an optional short video or handout previewing basic syntax before Class 5 for students starting from zero
+**Instructor Prep:** Build and test the fill-in-the-blank starter notebook; confirm Colab access for all students; prepare an optional short video or handout previewing basic syntax before Class 5 for students starting from zero; build a lightweight R-equivalent starter notebook for students opting into that track
 
 ## Class 6: Cold Dataset Challenge (Thu, Jan 28)
 
@@ -171,7 +176,7 @@ has a concrete run-of-show, not just a topic label.
 
 **Objective:** Prevent overly ambitious or vague capstone proposals.
 
-**Timing:** What makes a good capstone scope (15 min) / Examples of well-scoped vs. poorly-scoped past projects (20 min) / Individual scoping worksheet time with instructor circulating (30 min) / Wrap-up (10 min)
+**Timing:** What makes a good capstone scope (15 min) / Examples of well-scoped vs. poorly-scoped past projects (20 min) / Individual scoping worksheet time with instructor circulating, including confirming language choice (Python or R) for students on the optional R track (30 min) / Wrap-up (10 min)
 
 **Materials:** Scoping worksheet, example project list
 
