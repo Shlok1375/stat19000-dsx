@@ -52,6 +52,12 @@ help you do that is fair game.
 - **Weeks 11 to 12:** Continued build, peer review and revision
 - **Week 13:** Final analysis submitted
 
+### Language Options
+Instruction and live activities happen in Python throughout. Students may complete the
+capstone in either Python or R; both are graded on the same rubric below, language choice
+does not affect grading. Students choosing R should confirm their approach with the
+instructor during Class 17 (Capstone Kickoff).
+
 ### Grading Breakdown
 | Component | Weight | Criteria |
 |---|---|---|
@@ -61,11 +67,12 @@ help you do that is fair game.
 | Incorporation of Peer Feedback | 20% | Did the final version meaningfully respond to Week 12 review? |
 
 ### AI Usage: Capstone
-**Allowed, like a tool you're expected to use well.** You're free to use AI for Python syntax,
-debugging, brainstorming approaches, or even drafting parts of your write-up. What matters is that you understand and can defend
-everything you submit, you may occasionally be asked a quick question about your own project
-in class to confirm the reasoning is genuinely yours. Significant AI use should be briefly
-noted in your submission, more as good practice than as a restriction.
+**Allowed, like a tool you're expected to use well.** You're free to use AI for Python or R
+syntax, debugging, brainstorming approaches, or even drafting parts of your write-up. What
+matters is that you understand and can defend everything you submit, you may occasionally be
+asked a quick question about your own project in class to confirm the reasoning is genuinely
+yours. Significant AI use should be briefly noted in your submission, more as good practice
+than as a restriction.
 
 ---
 
@@ -156,6 +163,8 @@ policy.
 ### Technology Requirements
 - Laptop with internet access
 - Python (Jupyter or Google Colab, no local install strictly required)
+- R (RStudio or Posit Cloud) for students opting into the R track, also no local install
+  strictly required
 - No prior coding experience needed; Python is taught starting Class 5, and all course
   notebooks are provided as fill-in-the-blank templates
 
