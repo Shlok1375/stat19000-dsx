@@ -14,7 +14,7 @@ change what's taught in class.
 
 ## Class 1: Course Introduction & Orientation (Tue, Jan 12)
 
-**Objective:** Set expectations, build buy-in, remove first-day anxiety.
+**Objective:** Set expectations and Introductory topics.
 
 **Timing:** Welcome and why this course exists (15 min) / Syllabus, grading, AI policy walk-through (15 min) / Icebreaker: two truths and a data lie (20 min) / Preview of Class 2's coin activity, no spoilers (10 min) / Q&A (15 min)
 
