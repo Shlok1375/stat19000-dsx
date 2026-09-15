@@ -24,7 +24,7 @@ change what's taught in class.
 
 ## Class 2: The Coin Flip That Wasn't Fair (Thu, Jan 14)
 
-**Objective:** Create the "aha" moment that hooks students on the course's core idea.
+**Objective:** Create a moment that hooks students on the course's core idea.
 
 **Timing:** Setup and rules (10 min) / Small-group coin flip trials, some coins secretly weighted (25 min) / Groups present their guesses and reasoning (20 min) / Reveal and debrief: what patterns actually gave it away (20 min)
 
